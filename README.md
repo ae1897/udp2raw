@@ -1,6 +1,6 @@
 ## 📦 ARM64 Static Build of udp2raw
 
-➡️ [Download latest release](https://github.com/ТВОЙ-ЛОГИН/udp2raw/releases/latest) — statically compiled binary for Keenetic and other ARM64 (aarch64) devices.
+➡️ [Download latest release](https://github.com/ae1897/udp2raw/releases/download/v2025.04.08-arm64/udp2raw) — statically compiled binary for Keenetic and other ARM64 (aarch64) devices.
 
 ---
 
